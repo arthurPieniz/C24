@@ -1,2 +1,1 @@
-# C24
-ProjetoC24
+# PRO-C24-ArqueiroEpico-Modelo
